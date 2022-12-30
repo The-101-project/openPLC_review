@@ -39,3 +39,5 @@ width = 900
 
 * [Link: Blog-page: OpenPLC on a Raspberry Pi](https://funprojects.blog/2021/11/18/openplc-on-a-raspberry-pi/)
 
+* [Link: Elektor article: How to Use your Raspberry Pi as a PLC](https://www.elektormagazine.com/news/plc-with-raspberry-pi)
+
