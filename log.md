@@ -20,8 +20,7 @@
 * l8. openPLC editor runs on Windows, Linux, Macos
 * l9. I downloaded and installed the openPLC editor for Windows
 * l10. in openPLC editor, I opened the BLINK example, which is a LADDER diagram
-, then pressed the Arduino-symbol button
-l11. The 
+* l11. Then pressed the Arduino-symbol button: The ladder program compiled to C code and a dialogue box opened
 
 
 
