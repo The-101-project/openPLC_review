@@ -13,6 +13,7 @@
 * l1. While checking Elektor shop I saw the book PLC Programming with the Raspberry Pi and the OpenPLC Project
 * l2. I googled the Elektor book title and found it available at Amazon UK
 * l3. The book focus seems to be on R-Pi and ESP8266
+* l4. I checked also other google findings on openPLC and R-Pi
 
 
 
