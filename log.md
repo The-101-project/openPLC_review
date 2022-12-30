@@ -19,6 +19,7 @@
 * l7. Also ESP32, ESP8266, R-Pi, RP2040, and more
 * l8. openPLC editor runs on Windows, Linux, Macos
 * l9. I downloaded and installed the openPLC editor for Windows
+* l10. in openPLC editor, I opened the BLINK example, then pressed the Arduino-symbol button
 
 
 
