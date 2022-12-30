@@ -2,13 +2,16 @@
 [![](https://img.shields.io/badge/remote-openPLC__review-green.svg)](https://github.com/The-101-project/openPLC_review) 
 [![](https://img.shields.io/badge/local-F:\prj__soft\openPLC__review-orange.svg)]()
 
+* [log](log.md)
+
+
 # openPLC review
 
 This is my review, testing and evaluation for openPLC running on microcontroller boards and on a Raspberry-Pi
 
 
 
-* [Link: openPLC editor download](https://openplcproject.com/download/)
+
 
 ----
 
