@@ -10,19 +10,19 @@
 
 ## 30/12/2022
 
-* l1. While checking Elektor shop I saw the book PLC Programming with the Raspberry Pi and the OpenPLC Project
+* l1. While checking Elektor shop I saw the book `PLC Programming with the Raspberry Pi and the OpenPLC Project`
 * l2. I googled the Elektor book title and found it available at Amazon UK
-* l3. The book focus seems to be on R-Pi and ESP8266
-* l4. I checked also other google findings on openPLC and R-Pi
+* l3. The book focus, seems to be on R-Pi and ESP8266
+* l4. I also checked other google findings on openPLC and R-Pi
 * l5. openPLC can run in every hardware where its runtime can be installed
 * l6. Plenty 8/32bit Arduino variations can be used
-* l7. Also ESP32, ESP8266, R-Pi, RP2040, and more
+* l7. Also ESP32, ESP8266, R-Pi, RP2040, and more...
 * l8. openPLC editor runs on Windows, Linux, Macos
 * l9. I downloaded and installed the openPLC editor for Windows
-* l10. in openPLC editor, I opened the BLINK example, which is a LADDER diagram
+* l10. In openPLC editor, I opened the BLINK example, which is a LADDER diagram
 * l11. Then pressed the Arduino-symbol button: The ladder program compiled to C code and a dialogue box opened
 * l12. I selected Arduino-Uno, No download, only compilation (I had no board), ModBus RTU
-* l13. Then pressed the COMPILE button. The proccess took long time, as it was installing various MCU support packages, probably this happens only for the first compilation after openPLC editor was installed
+* l13. Then pressed the COMPILE button. The proccess took long time, as it was installing various MCU support packages (not only for UNO), probably this happens only for the first compilation after openPLC editor was installed
 * l14. A set of bin files was created to be uploaded to the Arduino-UNO board
 
 
