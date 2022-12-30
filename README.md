@@ -38,6 +38,19 @@ width = 900
 ----
 
 
+<p align="center">
+<img
+src="img/03.PNG"
+width = 600
+/>
+</p>
+
+`image 03: Compilation Binaries are overriding previous compilations`
+
+----
+
+
+
 ## Links
 
 * [Link 1: Elektor book: PLC Programming with the Raspberry Pi and the OpenPLC Project](https://www.elektor.com/plc-programming-with-the-raspberry-pi-and-the-openplc-project)
