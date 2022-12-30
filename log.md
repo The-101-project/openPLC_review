@@ -26,18 +26,19 @@
 * l14. A set of bin files was created to be uploaded to the Arduino-UNO board
 * l15. A 2nd example (Traffic_light) is Arduino-compiled fast, no upload for support packages
 * l16 the compiled binaries are overriding the previous comilation binaries, at `C:\Users\nikolaos.chalikias\OpenPLC_Editor\editor\arduino\examples\Baremetal\build\arduino.avr.uno`
-* l17. ESP32-C3 compilation failed
+* l17. ESP32-C3 compilation failed :x:
 * l18. Update openPLC editor using File/Update
-* l19. For compilation ESP32-C3 downloads support packeges
-* l20. ESP32-C3, 'trafic_light` compilation FAILED
-* l21. ESP32-C3, 'Blink` compilation FAILED
-* l22. STM32-F103 blue pill, 'Blink` compilation DONE!
-* l23. STM32-F411 black pill, 'Blink` compilation DONE!
-* l24. Nano RP2040 Connect, 'Blink` compilation DONE!
-* l25. ESP32, 'Blink` compilation DONE!
-* l26. nano 33 ioT, 'Blink` compilation DONE!
-* l27. Raspberry Pico W, 'Blink` compilation DONE!
-* l28. Arduino Mega, 'Blink` compilation DONE!
+* l19. For compilation ESP32-C3 downloads support packages
+* l20. ESP32-C3, 'trafic_light` compilation FAILED :x:
+* l21. ESP32-C3, 'Blink` compilation FAILED :x:
+* l22. STM32-F103 blue pill, 'Blink` compilation DONE! :heavy_check_mark:
+* l23. STM32-F411 black pill, 'Blink` compilation DONE! :heavy_check_mark:
+* l24. Nano RP2040 Connect, 'Blink` compilation DONE! :heavy_check_mark:
+* l25. ESP32, 'Blink` compilation DONE! :heavy_check_mark:
+* l26. nano 33 ioT, 'Blink` compilation DONE! :heavy_check_mark:
+* l27. Raspberry Pico W, 'Blink` compilation DONE! :heavy_check_mark:
+* l28. Arduino Mega, 'Blink` compilation DONE! :heavy_check_mark:
+* l29. ESP32-S2, 'Blink` compilation DONE! :heavy_check_mark:
 
 
 
