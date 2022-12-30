@@ -18,6 +18,7 @@
 * l6. Plenty 8/32bit Arduino variations can be used
 * l7. Also ESP32, ESP8266, R-Pi, RP2040, and more
 * l8. openPLC editor runs on Windows, Linux, Macos
+* l9. I downloaded and installed the openPLC editor for Windows
 
 
 
