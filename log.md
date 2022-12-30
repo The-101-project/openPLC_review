@@ -31,6 +31,7 @@
 * l19. For compilation ESP32-C3 downloads support packeges
 * l20. ESP32-C3 'trafic_light` compilation FAILED
 * l21. ESP32-C3 'Blink` compilation FAILED
+* l22. STM32-F103 blue pill 'Blink` compilation DONE!
 
 
 
