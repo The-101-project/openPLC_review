@@ -4,6 +4,10 @@
 
 # openPLC review
 
+
+
+* [Link: openPLC editor download](https://openplcproject.com/download/)
+
 ----
 
 <p align="center">
