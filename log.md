@@ -42,6 +42,7 @@
 * l29. ESP32-DOIT-DEVKIT-V1, 'Blink` compilation FAILED :x:
 * l30. Arduino Nano, 'Blink` compilation DONE! :heavy_check_mark:
 * l31. Arduino Zero native USB port, 'Blink` compilation DONE! :heavy_check_mark:
+* l31. ESP8266 NodeMCU, 'Blink` compilation DONE! :heavy_check_mark:
 
 
 
