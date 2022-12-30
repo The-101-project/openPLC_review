@@ -27,6 +27,7 @@
 * l15. A 2nd example (Traffic_light) is Arduino-compiled fast, no upload for support packages
 * l16 the compiled binaries are overriding the previous comilation binaries, at `C:\Users\nikolaos.chalikias\OpenPLC_Editor\editor\arduino\examples\Baremetal\build\arduino.avr.uno`
 * l17. ESP32-C3 compilation failed
+* l18. Update openPLC editor using File/Update
 
 
 
