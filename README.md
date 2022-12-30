@@ -17,3 +17,15 @@ width = 900
 
 ----
 
+<p align="center">
+<img
+src="img/02.PNG"
+width = 900
+/>
+</p>
+
+`image 02: Compilation Binaries`
+
+----
+
+
