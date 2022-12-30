@@ -33,8 +33,8 @@
 * l21. ESP32-C3, 'Blink` compilation FAILED
 * l22. STM32-F103 blue pill, 'Blink` compilation DONE!
 * l23. STM32-F411 black pill, 'Blink` compilation DONE!
-* l24. nano RP2040 Connect, black pill 'Blink` compilation DONE!
-
+* l24. Nano RP2040 Connect, 'Blink` compilation DONE!
+* l25. ESP32, 'Blink` compilation DONE!
 
 
 
