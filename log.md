@@ -35,6 +35,7 @@
 * l23. STM32-F411 black pill, 'Blink` compilation DONE!
 * l24. Nano RP2040 Connect, 'Blink` compilation DONE!
 * l25. ESP32, 'Blink` compilation DONE!
+* l26. nano 33 ioT, 'Blink` compilation DONE!
 
 
 
