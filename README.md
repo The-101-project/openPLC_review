@@ -1,6 +1,6 @@
 [![](https://img.shields.io/badge/organization-The--101--project-blue.svg)](https://github.com/The-101-project) 
-[![](https://img.shields.io/badge/remote-elektor__mw_reflex__receiver-green.svg)](https://github.com/soldering-channel/elektor_mw_reflex_receiver) 
-[![](https://img.shields.io/badge/local-F:\prj\electronics\elektor_mw_reflex_receiver-orange.svg)](https://github.com/soldering-channel)
+[![](https://img.shields.io/badge/remote-openPLC__review-green.svg)](https://github.com/The-101-project/openPLC_review) 
+[![](https://img.shields.io/badge/local-F:\prj__soft\openPLC__review-orange.svg)]()
 
 # openPLC review
 
