@@ -15,7 +15,8 @@
 * l3. The book focus seems to be on R-Pi and ESP8266
 * l4. I checked also other google findings on openPLC and R-Pi
 * l5. openPLC can run in every hardware where its runtime can be installed
-* l6. Plenty Arduino variations can be used
+* l6. Plenty 8/32bit Arduino variations can be used
+* l7. Also ESP32, ESP8266, R-Pi, RP2040, and more
 
 
 
