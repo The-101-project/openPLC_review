@@ -35,3 +35,5 @@ width = 900
 
 ## Links
 
+* [Link: Elektor book: PLC Programming with the Raspberry Pi and the OpenPLC Project](https://www.elektor.com/plc-programming-with-the-raspberry-pi-and-the-openplc-project)
+
