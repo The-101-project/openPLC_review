@@ -41,3 +41,5 @@ width = 900
 
 * [Link 3: Elektor article: How to Use your Raspberry Pi as a PLC](https://www.elektormagazine.com/news/plc-with-raspberry-pi)
 
+* [Link 4: Elektor book on Amazon UK](https://www.amazon.co.uk/dp/3895764698/?coliid=I2LVZFD7E02K2V&colid=1II7O5H31KI7Z&psc=1&ref_=_sed_dp)
+
