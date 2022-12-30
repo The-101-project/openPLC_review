@@ -10,7 +10,8 @@
 
 ## 30/12/2022
 
-## 30/12/2022
+* l1. While checking Elektor shop I saw the book PLC Programming with the Raspberry Pi and the OpenPLC Project
+
 
 
 
