@@ -45,6 +45,7 @@
 * l31. ESP8266 NodeMCU, 'Blink` compilation DONE! :heavy_check_mark:
 * l32. The `Upload to Arduino button' merges the runtime and the c-program in a single binary to upload to the selected Arduino board
 * l33. Raspberry-pi is a Linux system, so the `runtime` is installed standalone
+* l34. The `runtime` in Linux communicates and gets the code to run, via a webserver
 
 
 
