@@ -39,8 +39,8 @@
 * l27. Raspberry Pico W, 'Blink` compilation DONE! :heavy_check_mark:
 * l28. Arduino Mega, 'Blink` compilation DONE! :heavy_check_mark:
 * l29. ESP32-S2, 'Blink` compilation DONE! :heavy_check_mark:
-
-
+* l29. ESP32-DOIT-DEVKIT-V1, 'Blink` compilation FAILED :x:
+* l30. Arduino Nano, 'Blink` compilation DONE! :heavy_check_mark:
 
 
 
