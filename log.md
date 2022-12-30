@@ -43,6 +43,7 @@
 * l30. Arduino Nano, 'Blink` compilation DONE! :heavy_check_mark:
 * l31. Arduino Zero native USB port, 'Blink` compilation DONE! :heavy_check_mark:
 * l31. ESP8266 NodeMCU, 'Blink` compilation DONE! :heavy_check_mark:
+* l32. The `Upload to Arduino button' merges the runtime and the c-program in a single binary to upload to the selected Arduino board
 
 
 
