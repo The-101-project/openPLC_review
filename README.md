@@ -4,6 +4,8 @@
 
 # openPLC review
 
+This is my review, testing and evaluation for openPLC running on microcontroller boards and on a Raspberry-Pi
+
 
 
 * [Link: openPLC editor download](https://openplcproject.com/download/)
