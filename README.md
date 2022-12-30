@@ -35,9 +35,9 @@ width = 900
 
 ## Links
 
-* [Link: Elektor book: PLC Programming with the Raspberry Pi and the OpenPLC Project](https://www.elektor.com/plc-programming-with-the-raspberry-pi-and-the-openplc-project)
+* [Link 1: Elektor book: PLC Programming with the Raspberry Pi and the OpenPLC Project](https://www.elektor.com/plc-programming-with-the-raspberry-pi-and-the-openplc-project)
 
-* [Link: Blog-page: OpenPLC on a Raspberry Pi](https://funprojects.blog/2021/11/18/openplc-on-a-raspberry-pi/)
+* [Link 2: Blog-page: OpenPLC on a Raspberry Pi](https://funprojects.blog/2021/11/18/openplc-on-a-raspberry-pi/)
 
-* [Link: Elektor article: How to Use your Raspberry Pi as a PLC](https://www.elektormagazine.com/news/plc-with-raspberry-pi)
+* [Link 3: Elektor article: How to Use your Raspberry Pi as a PLC](https://www.elektormagazine.com/news/plc-with-raspberry-pi)
 
