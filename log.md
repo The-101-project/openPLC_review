@@ -21,8 +21,9 @@
 * l9. I downloaded and installed the openPLC editor for Windows
 * l10. in openPLC editor, I opened the BLINK example, which is a LADDER diagram
 * l11. Then pressed the Arduino-symbol button: The ladder program compiled to C code and a dialogue box opened
-* l12. I selected Arduino-Uno, No download, only compilation, ModBus RTU
+* l12. I selected Arduino-Uno, No download, only compilation (I had no board), ModBus RTU
 * l13. Then pressed the COMPILE button. The proccess took long time, as it was installing various MCU support packages, probably this happens only for the first compilation after openPLC editor was installed
+* l14. A set of bin files was created to be uploaded to the Arduino-UNO board
 
 
 
