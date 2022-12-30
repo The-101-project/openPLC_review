@@ -21,6 +21,7 @@
 * l9. I downloaded and installed the openPLC editor for Windows
 * l10. in openPLC editor, I opened the BLINK example, which is a LADDER diagram
 * l11. Then pressed the Arduino-symbol button: The ladder program compiled to C code and a dialogue box opened
+* l12. I selected Arduino-Uno, No download, only compilation, ModBus RTU
 
 
 
