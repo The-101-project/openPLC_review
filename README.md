@@ -4,11 +4,16 @@
 
 # openPLC review
 
+----
 
 <p align="center">
 <img
 src="img/01.PNG"
-width = 400
+width = 900
 />
 </p>
+
+`image 01: openPLC editor running in Windows10, compiled blink for Arduino UNO`
+
+----
 
