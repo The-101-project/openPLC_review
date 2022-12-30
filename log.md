@@ -32,6 +32,7 @@
 * l20. ESP32-C3 'trafic_light` compilation FAILED
 * l21. ESP32-C3 'Blink` compilation FAILED
 * l22. STM32-F103 blue pill 'Blink` compilation DONE!
+* l23. STM32-F411 black pill 'Blink` compilation DONE!
 
 
 
