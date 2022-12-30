@@ -61,3 +61,5 @@ width = 600
 
 * [Link 4: Elektor book on Amazon UK](https://www.amazon.co.uk/dp/3895764698/?coliid=I2LVZFD7E02K2V&colid=1II7O5H31KI7Z&psc=1&ref_=_sed_dp)
 
+* [Link 5: INSTALLING OPENPLC RUNTIME ON LINUX including Raspberry-Pi](https://openplcproject.com/docs/installing-openplc-runtime-on-linux-systems/)
+
