@@ -66,3 +66,4 @@
 * l49. Nano  Every ATmega4809, 'Traffic_light` compilation  DONE! :heavy_check_mark: 
 * l50. Arduino Zero Prog Port ATSAMD21G18, 'Traffic_light` compilation  DONE! :heavy_check_mark:
 * l51. Arduino Zero native USB port ATSAMD21G18, 'Traffic_light` compilation  DONE! :heavy_check_mark:
+* l52. Controllino Mini ATmega328, 'Traffic_light` compilation  DONE! :heavy_check_mark:
