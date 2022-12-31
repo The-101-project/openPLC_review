@@ -58,3 +58,4 @@
 * l41. ESP32-C3, 'Traffic_light` compilation  FAILED :x: 
 * l42. Arduino UNO, 'Traffic_light` compilation DONE! :heavy_check_mark:   
 * l43. Arduino Mega, 'Traffic_light` compilation DONE! :heavy_check_mark:  
+* l44. Arduino Nano, 'Traffic_light` compilation DONE! :heavy_check_mark:  
