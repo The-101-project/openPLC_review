@@ -62,3 +62,4 @@
 * l45. Nano 33 ioT, 'Traffic_light` compilation DONE! :heavy_check_mark:  
 * l46. Portenta mchine Control H7, 'Traffic_light` compilation FAILED :x:  
 * l47. ESP8266 NodeMCU, 'Traffic_light` compilation DONE! :heavy_check_mark: 
+* l48. Nano 33 BLE, 'Traffic_light` compilation  FAILED :x:  
