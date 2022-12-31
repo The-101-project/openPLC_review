@@ -49,5 +49,6 @@
 
 ## 31/12/2022
 
+* l35. STM32-F103 blue pill, 'Traffic_light` compilation DONE! :heavy_check_mark:
 
 
