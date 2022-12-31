@@ -55,4 +55,5 @@
 * l38. Nano RP2040 Connect, 'Traffic_light` compilation  FAILED :x:
 * l39. ESP32, 'Traffic_light` compilation  FAILED :x: 
 * l40. ESP32-S2, 'Traffic_light` compilation  FAILED :x:  
-* l41. ESP32-C3, 'Traffic_light` compilation  FAILED :x:  
+* l41. ESP32-C3, 'Traffic_light` compilation  FAILED :x: 
+* l42. Arduino UNO, 'Traffic_light` compilation DONE! :heavy_check_mark:   
