@@ -53,4 +53,4 @@
 * l36. STM32-F411 black pill, 'Traffic_light` compilation DONE! :heavy_check_mark:
 * l37. Raspberry Pico W, 'Traffic_light` compilation  FAILED :x:
 * l38. Nano RP2040 Connect, 'Traffic_light` compilation  FAILED :x:
-* l39. ESP32, 'Traffic_light` compilation  FAILED :x:
+* l39. ESP32, 'Traffic_light` compilation  FAILED :x:  
