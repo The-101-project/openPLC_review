@@ -59,8 +59,9 @@
 * l42. Arduino UNO, 'Traffic_light` compilation DONE! :heavy_check_mark:   
 * l43. Arduino Mega, 'Traffic_light` compilation DONE! :heavy_check_mark:  
 * l44. Arduino Nano, 'Traffic_light` compilation DONE! :heavy_check_mark:  
-* l45. Nano 33 ioT, 'Traffic_light` compilation DONE! :heavy_check_mark:  
+* l45. Nano 33 ioT SAMD21 + u-blox NINA-W102, 'Traffic_light` compilation DONE! :heavy_check_mark:  
 * l46. Portenta mchine Control H7, 'Traffic_light` compilation FAILED :x:  
 * l47. ESP8266 NodeMCU, 'Traffic_light` compilation DONE! :heavy_check_mark: 
-* l48. Nano 33 BLE, 'Traffic_light` compilation  FAILED :x:  
-* l49. Nano  Every Tmega4809, 'Traffic_light` compilation  DONE! :heavy_check_mark: 
+* l48. Nano 33 BLE nRF52840, 'Traffic_light` compilation  FAILED :x:  
+* l49. Nano  Every ATmega4809, 'Traffic_light` compilation  DONE! :heavy_check_mark: 
+* l50. Arduino Zero  ATSAMD21G18, 'Traffic_light` compilation  DONE! :heavy_check_mark:
