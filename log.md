@@ -59,3 +59,4 @@
 * l42. Arduino UNO, 'Traffic_light` compilation DONE! :heavy_check_mark:   
 * l43. Arduino Mega, 'Traffic_light` compilation DONE! :heavy_check_mark:  
 * l44. Arduino Nano, 'Traffic_light` compilation DONE! :heavy_check_mark:  
+* l45. Nano 33 ioT, 'Traffic_light` compilation DONE! :heavy_check_mark:  
