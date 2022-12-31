@@ -63,3 +63,5 @@ width = 600
 
 * [Link 5: INSTALLING OPENPLC RUNTIME ON LINUX including Raspberry-Pi](https://openplcproject.com/docs/installing-openplc-runtime-on-linux-systems/)
 
+* [Link 6: Repurposing a PLC Clone for Use with Arduino](https://hackernoon.com/repurposing-a-plc-clone-for-use-with-arduino)
+
