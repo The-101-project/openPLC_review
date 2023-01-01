@@ -75,3 +75,4 @@
 ## 01/01/2023
 * l55. Most valuable options seem to be STM32F103, STM42F411
 * L56. Most stable options: Arduino 8bit, STM32, SAMD21
+* L57. Most interesting supported board: fx3u-14m PLC board Mitsubishi compatible STM32F103
