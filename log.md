@@ -68,8 +68,8 @@
 * l51. Arduino Zero native USB port ATSAMD21G18, 'Traffic_light` compilation  DONE! :heavy_check_mark:
 * l52. Controllino Mini ATmega328, 'Traffic_light` compilation  DONE! :heavy_check_mark:
 * l53. fx3u-14m PLC board Mitsubishi compatible STM32F103, 'Traffic_light` compilation  DONE! :heavy_check_mark:
-* l54. P1AM-100 SAMD21, 'Traffic_light` compilation  DONE! :heavy_check_mark:
+* l54. P1AM-100 SAMD21G18, 'Traffic_light` compilation  DONE! :heavy_check_mark:
 
 
 
-
+## 01/01/2023
