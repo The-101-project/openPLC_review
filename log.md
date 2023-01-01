@@ -73,3 +73,4 @@
 
 
 ## 01/01/2023
+* l55. Most valuable options seem to be STM32F103, STM42F411
