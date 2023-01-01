@@ -65,3 +65,5 @@ width = 600
 
 * [Link 6: Repurposing a PLC Clone for Use with Arduino](https://hackernoon.com/repurposing-a-plc-clone-for-use-with-arduino)
 
+* [Link 7: How to add the User-defined POUs](https://openplc.discussion.community/post/how-to-add-userdefined-pous-9914176)
+
